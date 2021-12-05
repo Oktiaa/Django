@@ -1,0 +1,14 @@
+body {
+    background: white url("images/Tropical\ Palm\ Wallpaper\ Mural\ Hovia.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+li a {
+
+    color: #836853;
+    margin-left: 300px;
+    font-size: 40px;
+    text-decoration: none;
+}
